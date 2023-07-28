@@ -1,0 +1,46 @@
+footer {
+    background-color: #040e26;
+    margin-top: 0px;
+}
+
+footer .logo {
+    margin-top: 75px; 
+    margin-bottom: 25px;
+}
+
+footer .quick-links, footer .company, footer .subscribe {
+    margin-top: 75px; 
+    margin-bottom: 75px;
+}
+
+footer h5, footer a, footer p, footer span {
+    color: #FFFFFF;
+}
+
+footer .custom-border-top {
+    border-top: 1px solid #fc5e28;
+}
+
+footer .custom-btn-border {
+    border: 1px solid #fc5e28;
+    background-color: #fc5e28;
+    color:#FFFFFF;
+}
+
+footer .custom-btn-border:hover {
+    border: 1px solid #fc5e28;
+    background-color: transparent;
+    color:#FFFFFF;
+}
+
+footer ul li .fa-brands {
+    color: #fc5e28;
+}
+
+footer ul li .fa-brands:hover {
+    color:#FFFFFF;
+}
+
+footer .list-unstyled li .text-decoration-none:hover {
+    color: #fc5e28;
+}
